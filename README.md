@@ -62,7 +62,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [What is a Load Balancer?](https://bytebytego.com/guides/what-is-a-load-balancer)
   * [Proxy vs Reverse Proxy](https://bytebytego.com/guides/proxy-vs-reverse-proxy)
   * [HTTP/1 -> HTTP/2 -> HTTP/3](https://bytebytego.com/guides/http1-http2-http3)
-  * [Polling vs Webhooks](https://bytebytego.com/guides/polling-vs-webhooks)
+  * ✅ [Polling vs Webhooks](https://bytebytego.com/guides/polling-vs-webhooks)
   * [How do we Perform Pagination in API Design?](https://bytebytego.com/guides/how-do-we-perform-pagination-in-api-design)
   * [How to Design Effective and Safe APIs](https://bytebytego.com/guides/how-do-we-design-effective-and-safe-apis)
   * [How to Design Secure Web API Access](https://bytebytego.com/guides/how-to-design-secure-web-api-access-for-your-website)
