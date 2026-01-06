@@ -25,7 +25,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
 <!-- TOC -->
 
 * [API and Web Development](https://bytebytego.com/guides/api-web-development)
-  * ✅ ✅ [Short/long polling, SSE, WebSocket](https://bytebytego.com/guides/shortlong-polling-sse-websocket)
+  * ✅ [Short/long polling, SSE, WebSocket](https://bytebytego.com/guides/shortlong-polling-sse-websocket)
   * ✅ [Load Balancer Realistic Use Cases](https://bytebytego.com/guides/load-balancer-realistic-use-cases-you-may-not-know)
   * ✅ [5 HTTP Status Codes That Should Never Have Been Created](https://bytebytego.com/guides/5-http-status-codes-that-should-never-have-been-created)
   * [How does gRPC work?](https://bytebytego.com/guides/how-does-grpc-work)
