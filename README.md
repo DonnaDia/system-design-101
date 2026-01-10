@@ -28,7 +28,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * ✅ [Short/long polling, SSE, WebSocket](https://bytebytego.com/guides/shortlong-polling-sse-websocket)
   * ✅ [Polling vs Webhooks](https://bytebytego.com/guides/polling-vs-webhooks)
 
-
+  * ✅ [What is a Load Balancer?](https://bytebytego.com/guides/what-is-a-load-balancer)
   * ✅ [Load Balancer Realistic Use Cases](https://bytebytego.com/guides/load-balancer-realistic-use-cases-you-may-not-know)
   * ✅ [Key Use Cases for Load Balancers](https://bytebytego.com/guides/key-use-cases-for-load-balancers)
   * ✅ [5 HTTP Status Codes That Should Never Have Been Created](https://bytebytego.com/guides/5-http-status-codes-that-should-never-have-been-created)
@@ -64,7 +64,6 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [SOAP vs REST vs GraphQL vs RPC](https://bytebytego.com/guides/soap-vs-rest-vs-graphql-vs-rpc)
   * [A Cheatsheet on Comparing API Architectural Styles](https://bytebytego.com/guides/a-cheatsheet-on-comparing-api-architectural-styles)
   * [Top 9 HTTP Request Methods](https://bytebytego.com/guides/top-9-http-request-methods)
-  * [What is a Load Balancer?](https://bytebytego.com/guides/what-is-a-load-balancer)
   * [Proxy vs Reverse Proxy](https://bytebytego.com/guides/proxy-vs-reverse-proxy)
   * [HTTP/1 -> HTTP/2 -> HTTP/3](https://bytebytego.com/guides/http1-http2-http3)
   * [How do we Perform Pagination in API Design?](https://bytebytego.com/guides/how-do-we-perform-pagination-in-api-design)
