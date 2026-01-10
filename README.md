@@ -30,7 +30,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * ✅ [Load Balancer Realistic Use Cases](https://bytebytego.com/guides/load-balancer-realistic-use-cases-you-may-not-know)
   * ✅ [Key Use Cases for Load Balancers](https://bytebytego.com/guides/key-use-cases-for-load-balancers)
   * ✅ [5 HTTP Status Codes That Should Never Have Been Created](https://bytebytego.com/guides/5-http-status-codes-that-should-never-have-been-created)
-  * [How does gRPC work?](https://bytebytego.com/guides/how-does-grpc-work)
+  * ✅ [How does gRPC work?](https://bytebytego.com/guides/how-does-grpc-work)
   * [How NAT Enabled the Internet](https://bytebytego.com/guides/how-nat-made-the-growth-of-the-internet-possible)
   * [Important Things About HTTP Headers](https://bytebytego.com/guides/important-things-about-http-headers-you-may-not-know)
   * [Internet Traffic Routing Policies](https://bytebytego.com/guides/internet-traffic-routing-policies)
