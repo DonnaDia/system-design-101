@@ -31,6 +31,8 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * ✅ [What is a Load Balancer?](https://bytebytego.com/guides/what-is-a-load-balancer)
   * ✅ [Load Balancer Realistic Use Cases](https://bytebytego.com/guides/load-balancer-realistic-use-cases-you-may-not-know)
   * ✅ [Key Use Cases for Load Balancers](https://bytebytego.com/guides/key-use-cases-for-load-balancers)
+
+  * ✅ [HTTP Status Codes You Should Know](https://bytebytego.com/guides/http-status-code-you-should-know)
   * ✅ [5 HTTP Status Codes That Should Never Have Been Created](https://bytebytego.com/guides/5-http-status-codes-that-should-never-have-been-created)
     
   * ✅ [What is gRPC?](https://bytebytego.com/guides/what-is-grpc)
@@ -60,7 +62,6 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [URL, URI, URN - Differences Explained](https://bytebytego.com/guides/url-uri-urn-do-you-know-the-differences)
   * [API vs SDK](https://bytebytego.com/guides/api-vs-sdk)
   * [A Cheatsheet to Build Secure APIs](https://bytebytego.com/guides/a-cheatsheet-to-build-secure-apis)
-  * [HTTP Status Codes You Should Know](https://bytebytego.com/guides/http-status-code-you-should-know)
   * [SOAP vs REST vs GraphQL vs RPC](https://bytebytego.com/guides/soap-vs-rest-vs-graphql-vs-rpc)
   * [A Cheatsheet on Comparing API Architectural Styles](https://bytebytego.com/guides/a-cheatsheet-on-comparing-api-architectural-styles)
   * [Top 9 HTTP Request Methods](https://bytebytego.com/guides/top-9-http-request-methods)
