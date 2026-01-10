@@ -27,9 +27,13 @@ Whether you're preparing for a System Design Interview or you simply want to und
 * [API and Web Development](https://bytebytego.com/guides/api-web-development)
   * ✅ [Short/long polling, SSE, WebSocket](https://bytebytego.com/guides/shortlong-polling-sse-websocket)
   * ✅ [Polling vs Webhooks](https://bytebytego.com/guides/polling-vs-webhooks)
+
+
   * ✅ [Load Balancer Realistic Use Cases](https://bytebytego.com/guides/load-balancer-realistic-use-cases-you-may-not-know)
   * ✅ [Key Use Cases for Load Balancers](https://bytebytego.com/guides/key-use-cases-for-load-balancers)
   * ✅ [5 HTTP Status Codes That Should Never Have Been Created](https://bytebytego.com/guides/5-http-status-codes-that-should-never-have-been-created)
+    
+  * ✅ [What is gRPC?](https://bytebytego.com/guides/what-is-grpc)
   * ✅ [How does gRPC work?](https://bytebytego.com/guides/how-does-grpc-work)
   * [How NAT Enabled the Internet](https://bytebytego.com/guides/how-nat-made-the-growth-of-the-internet-possible)
   * [Important Things About HTTP Headers](https://bytebytego.com/guides/important-things-about-http-headers-you-may-not-know)
@@ -67,7 +71,6 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [How to Design Effective and Safe APIs](https://bytebytego.com/guides/how-do-we-design-effective-and-safe-apis)
   * [How to Design Secure Web API Access](https://bytebytego.com/guides/how-to-design-secure-web-api-access-for-your-website)
   * [What Does an API Gateway Do?](https://bytebytego.com/guides/what-does-api-gateway-do)
-  * [What is gRPC?](https://bytebytego.com/guides/what-is-grpc)
   * [Top 12 Tips for API Security](https://bytebytego.com/guides/top-12-tips-for-api-security)
   * [Explaining 9 Types of API Testing](https://bytebytego.com/guides/explaining-9-types-of-api-testing)
   * [REST API vs. GraphQL](https://bytebytego.com/guides/rest-api-vs-graphql)
