@@ -42,7 +42,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [Internet Traffic Routing Policies](https://bytebytego.com/guides/internet-traffic-routing-policies)
   * [How Browsers Render Web Pages](https://bytebytego.com/guides/how-does-the-browser-render-a-web-page)
   * [What makes HTTP2 faster than HTTP1?](https://bytebytego.com/guides/what-makes-http2-faster-than-http1)
-  * [What is CSS (Cascading Style Sheets)?](https://bytebytego.com/guides/what-is-css-cascading-style-sheets)
+  * ✅ [What is CSS (Cascading Style Sheets)?](https://bytebytego.com/guides/what-is-css-cascading-style-sheets)
   * [18 Common Ports Worth Knowing](https://bytebytego.com/guides/18-common-ports-worth-knowing)
   * [What are the differences between WAN, LAN, PAN and MAN?](https://bytebytego.com/guides/what-are-the-differences-between-wan-lan-pan-and-man)
   * [How does Javascript Work?](https://bytebytego.com/guides/how-does-javascript-work)
