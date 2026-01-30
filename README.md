@@ -37,7 +37,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
     
   * ✅ [What is gRPC?](https://bytebytego.com/guides/what-is-grpc)
   * ✅ [How does gRPC work?](https://bytebytego.com/guides/how-does-grpc-work)
-  * this [How NAT Enabled the Internet](https://bytebytego.com/guides/how-nat-made-the-growth-of-the-internet-possible)
+  * ✅ [How NAT Enabled the Internet](https://bytebytego.com/guides/how-nat-made-the-growth-of-the-internet-possible)
   * ✅ [Important Things About HTTP Headers](https://bytebytego.com/guides/important-things-about-http-headers-you-may-not-know)
   * [Internet Traffic Routing Policies](https://bytebytego.com/guides/internet-traffic-routing-policies)
   * [How Browsers Render Web Pages](https://bytebytego.com/guides/how-does-the-browser-render-a-web-page)
