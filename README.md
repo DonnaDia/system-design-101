@@ -39,7 +39,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * ✅ [How does gRPC work?](https://bytebytego.com/guides/how-does-grpc-work)
   * ✅ [How NAT Enabled the Internet](https://bytebytego.com/guides/how-nat-made-the-growth-of-the-internet-possible)
   * ✅ [Important Things About HTTP Headers](https://bytebytego.com/guides/important-things-about-http-headers-you-may-not-know)
-  * [Internet Traffic Routing Policies](https://bytebytego.com/guides/internet-traffic-routing-policies)
+  * ✅ [Internet Traffic Routing Policies](https://bytebytego.com/guides/internet-traffic-routing-policies)
   * [How Browsers Render Web Pages](https://bytebytego.com/guides/how-does-the-browser-render-a-web-page)
   * [What makes HTTP2 faster than HTTP1?](https://bytebytego.com/guides/what-makes-http2-faster-than-http1)
   * ✅ [What is CSS (Cascading Style Sheets)?](https://bytebytego.com/guides/what-is-css-cascading-style-sheets)
