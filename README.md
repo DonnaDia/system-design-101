@@ -396,7 +396,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [Why is Nginx so Popular?](https://bytebytego.com/guides/why-is-nginx-so-popular)
   * [What is Kubernetes (k8s)?](https://bytebytego.com/guides/what-is-k8s-kubernetes)
   * [How does Docker work?](https://bytebytego.com/guides/how-does-docker-work)
-  * [CI/CD Pipeline Explained in Simple Terms](https://bytebytego.com/guides/cicd-pipeline-explained-in-simple-terms)
+  * ✅ [CI/CD Pipeline Explained in Simple Terms](https://bytebytego.com/guides/cicd-pipeline-explained-in-simple-terms)
 * [Security](https://bytebytego.com/guides/security)
   * [What is DevSecOps?](https://bytebytego.com/guides/what-is-devsecops)
   * [Encoding vs Encryption vs Tokenization](https://bytebytego.com/guides/encoding-vs-encryption-vs-tokenization)
