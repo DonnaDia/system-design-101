@@ -388,7 +388,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   * [Kubernetes Command Cheatsheet](https://bytebytego.com/guides/the-ultimate-kubernetes-command-cheatsheet)
   * [Kubernetes Deployment Strategies](https://bytebytego.com/guides/kubernetes-deployment-strategies)
   * [How does Terraform turn Code into Cloud?](https://bytebytego.com/guides/how-does-terraform-turn-code-into-cloud)
-  * [DevOps vs. SRE vs. Platform Engineering](https://bytebytego.com/guides/devops-vs-sre-vs-paltform-engg)
+  * ✅ [DevOps vs. SRE vs. Platform Engineering](https://bytebytego.com/guides/devops-vs-sre-vs-paltform-engg)
   * [Deployment Strategies](https://bytebytego.com/guides/how-to-deploy-services)
   * [Logging, Tracing, and Metrics](https://bytebytego.com/guides/logging-tracing-metrics)
   * [Log Parsing Cheat Sheet](https://bytebytego.com/guides/log-parsing-cheat-sheet)
